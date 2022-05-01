@@ -21,6 +21,18 @@ body{
   background-color: #9DCCF6;
 }
 
+menu, ol, ul {
+  list-style: square;
+  margin: 10px;
+  padding: 10px;
+}
+
+
+.bold{
+  font-weight: bold;
+}
+
+
 /* Header en Nav */
 .nav-bg{
   background-color: #1786d5;
@@ -61,6 +73,12 @@ body{
   color: #224E71;
   font-family: "Helvetica Neue B";
   font-size: 30px;
+}
+
+.txt-blue-h2{
+  color: #224E71;
+  font-family: "Helvetica Neue B";
+  font-size: 25px;
 }
 
 .txt-blue:hover{
@@ -339,9 +357,42 @@ body{
   border: 5px solid #E1EEFF;
 }
 
+.grid{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin-right: 10px;
+}
+
+.btn-submit{
+  color: #0b5ed7;
+  border: 2px solid #0b5ed7;
+}
+
+.btn-submit:hover{
+  color: #E1EEFF;
+  background-color: #0b5ed7;
+}
+
+.form-control:disabled, .form-control[readonly]{
+  opacity: 0.5;
+}
+
 /* Footer */
 .footer{
   background-color: #224E71;
   border-radius: 20px 20px 0px 0px;
 }
 
+.social-links-footer{
+  font-size: 30px;
+  color: #E1EEFF;
+  margin-top: 10px;
+}
+
+.social-links-footer a{
+  margin-right: 15px;
+}
+
+.social-links-footer a:hover{
+  color: #1786d5;
+}

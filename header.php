@@ -65,7 +65,7 @@
             </div>
           </div>
           <div class="image-container">
-            <img src="img/bluebkg.png" alt="" class="image" />
+            <img src="img/SkySteven.jpg" alt="" class="image" />
           </div>
         </div>
         <div class="slide">
@@ -78,7 +78,7 @@
             </div>
           </div>
           <div class="image-container">
-            <img src="img/code.jpg" alt="" class="image" />
+            <img src="img/SoftwareDeveloperStevenCode.jpg" alt="" class="image" />
           </div>
         </div>
         <div class="slide">
