@@ -1,7 +1,14 @@
-# Portofolio
-Steven Boeren's Portofolio Website!
+# Steven Boeren's Portofolio Website
+## https://stevenboeren.tk  
 
-Link: https://stevenboeren.tk
+### code
+started from the html-5 boilerplate project.
 
-Made with Boilerplate
-CSS, HTML, PHP & JS
+
+Made with:
+
+- HTML
+- CSS
+- PHP 
+- JS
+
