@@ -7,6 +7,12 @@
 		<?php
 			require_once('header.php');
 		?>
+
+    <?php
+      require_once('sildeshow.php');
+    ?>
+
+
     <div class="content">
       <div class="container">
         <h1 class="txt-blue">Welkom op mijn portfolio site!!</h1>

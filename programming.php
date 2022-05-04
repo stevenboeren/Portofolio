@@ -13,7 +13,7 @@
         <h1 class="txt-blue">Progameerkennis</h1>
         <p class="txt-blue-2">Hierbij de progameertalen die beheers of bij mijn opleiding geleerd heb.</p>
         <br>
-        <!-- grid een beetje hulp van jari-->
+        <!-- grid een beetje hulp van Jari-->
         <h1 class="txt-blue">Web-development</h1>
         <div class="grid">
           <div>
@@ -48,6 +48,7 @@
               <li>Plain C# (Console apps)</li>
               <li>WinForm/ASP.NET Apps</li>
               <li>XAML (MVVM en UWP Apps)</li>
+              <li>Python</li>
             </ul>
           </div>
 
